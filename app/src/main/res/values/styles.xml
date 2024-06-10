@@ -1,0 +1,8 @@
+<resources>
+    <!-- Custom AlertDialog style -->
+    <style name="CustomAlertDialog" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="android:background">@color/lavenderShade</item>
+        <item name="android:dialogCornerRadius">20dp </item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+</resources>

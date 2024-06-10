@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="offwhite">#E2E3E1</color>
+    <color name="dialogTitleColor">#F1EDED</color>
+    <color name="lightGray"> #e9e9e9 </color>
+    <color name="vibrantPurple"> #661d9f </color>
+    <color name="lavenderShade"> #a593e0 </color>
+    <color name="gray"> #8e8e8e </color>
+    <color name="blackGray"> #333f3e </color>
+    <color name="red">#F3052C</color>
+    <color name="normal_text_color">#1B1919</color> <!-- Black -->
+    <color name="error_text_color">#FF0000</color> <!-- Red -->
+    <color name="ic_launcher_background">#e9e9e9</color>
+
+</resources>
