@@ -51,7 +51,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="User Info"
-                android:textColor="#333F3E"
+                android:textColor="@color/black"
                 android:textSize="24dp"
                 android:textStyle="bold" />
 
@@ -62,7 +62,7 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="60dp"
                 android:text="User name"
-                android:textColor="#333F3E"
+                android:textColor="@color/black"
                 android:textSize="15dp"
                 android:textStyle="bold" />
 
@@ -73,7 +73,7 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="5dp"
                 android:text="Email"
-                android:textColor="#333F3E"
+                android:textColor="@color/black"
                 android:textSize="15dp"
                 android:textStyle="bold" />
 
